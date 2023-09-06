@@ -1,0 +1,144 @@
+body{
+    margin: 0;
+    background:black ;
+    color: #fff;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+}
+.left-section{
+    width: 51%;
+    height: 78%;
+    
+    margin-top: 80px;
+    float: left;
+}
+.img{
+    width: 61%;
+height: auto;
+
+margin-top: 27px;
+color: wheat;
+padding-left: 172px;
+float: left;
+}
+.right-section{
+    width: 44%;
+    
+    margin-left: 849px;
+    height: 715px;
+}
+.right-section h1{
+    padding-top: 31px;
+    padding-left: 12px;
+    font-size: 73px
+}
+.h2{
+    font-size: 44px;
+}
+.content{
+    padding: 9px 134px;
+    width: 554px;
+    position: absolute;
+    top: 44%;
+    left: 48%;
+    text-align: center;
+    border-radius: 10px;
+}
+.content button img{
+    width: 18px;
+    margin-right: -38px;
+    padding: 48px;
+}
+
+
+
+.btn1{
+    width: 57%;
+    padding: 8px 20px;
+    display: flex;
+    align-items: center;
+    border-radius: 30px;
+    border: 1px solid #999;
+    font-weight: 500;
+    cursor: pointer;
+    margin-top: 10px;
+    height: 49px;
+}
+
+.btn2{
+    width: 57%;
+    padding: 8px 20px;
+    display: flex;
+    align-items: center;
+    border-radius: 30px;
+    border: 1px solid #999;
+    font-weight: 500;
+    cursor: pointer;
+    margin-top: 10px;
+    height: 49px;
+}
+.content hr{
+    border: 0;
+    height: 1px;
+    margin: 20px;
+    background: #fff;
+    width: 294px;
+}
+.content span{
+    width: 40px;
+    margin: auto;
+    
+    font-size: 14px;
+    margin-top: -16px;
+}
+.acc{
+    width: 47%;
+    display: flex;
+    align-items: center;
+    border-radius: 30px;
+    border: 1px solid #999;
+    font-weight: 500;
+    cursor: pointer;
+    margin-top: 201px;
+    height: 45px;
+    padding-top: -11px;
+    left: 12px;
+    padding-left: 87px;
+    margin-left: 21px;
+    background-color: rgb(29, 155, 240);
+    color: #fff;
+    font: inherit;
+    padding-top: -9px;
+}
+.para{
+    font-size: 12px;
+    padding-left: 29px;
+    color: rgb(113, 118, 123);
+}
+.Already{
+    font-size: 21px;
+    padding-top: 12px;
+    padding-left: -7px;
+}
+.Sign{
+    width: 47%;
+    display: flex;
+    align-items: center;
+    border-radius: 30px;
+    border: -4px solid #999;
+    font-weight: 500;
+    cursor: pointer;
+    margin-top: 16px;
+    height: 42px;
+    padding-top: -11px;
+    left: 12px;
+    padding-left: 133px;
+    margin-left: 21px;
+    background-color: black;
+    color: rgb(29, 155, 240);
+    font: inherit;
+    padding-top: -11px;
+    font-weight: bold;
+}
+.sign ::after{
+    background: #303030;
+}
